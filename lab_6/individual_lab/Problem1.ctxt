@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Problem1
+comment0.text=\n\ @author\ \:\ \ D.\ Appel\n
+comment1.params=
+comment1.target=void\ sortBeepers()
+comment10.params=
+comment10.target=void\ placeBeeps()
+comment2.params=
+comment2.target=void\ position()
+comment3.params=
+comment3.target=void\ collect()
+comment4.params=
+comment4.target=void\ reposition()
+comment5.params=
+comment5.target=void\ rearrange()
+comment6.params=
+comment6.target=void\ place()
+comment7.params=
+comment7.target=void\ countBeeps()
+comment8.params=
+comment8.target=void\ record()
+comment9.params=
+comment9.target=void\ moveToNextRow()
+numComments=11
