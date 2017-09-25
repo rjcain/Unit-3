@@ -1,18 +1,15 @@
 #BlueJ package file
-dependency1.from=RobotDriver
-dependency1.to=BeeperBot
-dependency1.type=UsesDependency
 objectbench.height=102
-objectbench.width=273
-package.divider.horizontal=0.6965174129353234
+objectbench.width=234
+package.divider.horizontal=0.599502487562189
 package.divider.vertical=0.7482678983833718
 package.editor.height=317
 package.editor.width=296
-package.editor.x=0
+package.editor.x=2
 package.editor.y=23
 package.frame.height=491
 package.frame.width=422
-package.numDependencies=1
+package.numDependencies=0
 package.numTargets=2
 package.showExtends=true
 package.showUses=true

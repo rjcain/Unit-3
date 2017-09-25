@@ -1,6 +1,10 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ findAndCountBeepers()
+comment0.target=BeeperBot
+comment0.text=\n\ @author\ \:\ \ D.\ Appel\n
 comment1.params=
-comment1.target=int[]\ getBeeperList()
-numComments=2
+comment1.target=void\ findAndCountBeepers()
+comment2.params=
+comment2.target=void\ steeple()
+comment3.params=
+comment3.target=int[]\ getBeeperList()
+numComments=4
