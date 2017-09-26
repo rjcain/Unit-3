@@ -3,10 +3,10 @@ package lab_7.pair_programming;
 import kareltherobot.*;
 import java.awt.Color;
 
-public class PlanterDriver implements Directions
+public class RobotDriver implements Directions
 {
     public static void main(String args[])  {
-        Planter billy = new Planter(2,2,East,0);
+        Robot billy = new Planter(2,2,East,0);
         billy.findAllBeepers();
         billy.turnOff();
     } 
