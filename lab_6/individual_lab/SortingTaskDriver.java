@@ -20,6 +20,7 @@ public class SortingTaskDriver implements Directions
         //Your code goes here:
         Problem1 karel = new Problem1(8, 2, West, 0);  
         karel.sortBeepers();
+        karel.printArray();
         karel.turnOff();  
     } 
     

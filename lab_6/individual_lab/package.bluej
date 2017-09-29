@@ -1,9 +1,9 @@
 #BlueJ package file
-dependency1.from=SortingTaskDriver
-dependency1.to=Problem1
+dependency1.from=BuildingFenceDriver
+dependency1.to=Problem2
 dependency1.type=UsesDependency
-dependency2.from=BuildingFenceDriver
-dependency2.to=Problem2
+dependency2.from=SortingTaskDriver
+dependency2.to=Problem1
 dependency2.type=UsesDependency
 objectbench.height=102
 objectbench.width=372

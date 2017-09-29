@@ -26,6 +26,13 @@ public class Problem1 extends Robot
         rearrange();
         place();
     }
+    public void printArray() {
+        System.out.println();
+        for(int value: beepVal) {
+            System.out.print( value + " , ");
+        }
+        System.out.println();
+    }
     public void position() {
         while(frontIsClear()) {
             move();
@@ -59,10 +66,6 @@ public class Problem1 extends Robot
         turnLeft();
     }
     public void rearrange() {
-        System.out.println(beepVal[0]);
-        System.out.println(beepVal[1]);
-        System.out.println(beepVal[2]);
-        System.out.println(beepVal[3]);
         //defines array number, comparing number,
         arrayNum = 0;
         comparer = 1;
@@ -127,11 +130,9 @@ public class Problem1 extends Robot
         turnLeft();
     }
     public void placeBeeps() {
-        
         for(int x = 0; x < beepVal[arrayNum]; x++) {
                 putBeeper();
                 move();
-                
          }
     }
 }
